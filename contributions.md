@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 16   | https://rateyourmusic.com/release/single/xxhardbit3s/kick-your-self-kickspammer-fuckyoufuckyoufuckyou-oppcoreridesforever/    | RYM Release Addition    |   Added missing single to xxhardbit3s's discography on RYM. Also uploaded the cover art, but this is still to be approved.     |
 |     |     |     |      |
 |     |     |     |      |
